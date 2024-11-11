@@ -41,7 +41,10 @@ Coming soon
 Deprecated
 {: .label .label-red }
 
-{: .highlight }
+{: .warning }
+A paragraph
+
+> {: .warning }
 A paragraph
 
 ----
