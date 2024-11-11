@@ -41,9 +41,6 @@ Coming soon
 Deprecated
 {: .label .label-red }
 
-{: .warning }
-A paragraph
-
 > {: .warning }
 A paragraph
 
